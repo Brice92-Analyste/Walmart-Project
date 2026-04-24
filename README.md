@@ -9,7 +9,7 @@
 
 Ce projet s'inscrit dans le cadre de notre projet de fin d'étude en sciences des données au sein de la Cité collégiale
 Le jeu de données provient de Kaggle via le lien suivant
-[Walmart Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast.
 L'objectif est de concevoir un système intelligent capable de **prévoir les ventes
 hebdomadaires** de chaque département au sein des magasins Walmart, en exploitant
 les données historiques, les patterns saisonniers, les promotions et les indicateurs
