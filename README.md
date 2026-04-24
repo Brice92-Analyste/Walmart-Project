@@ -23,7 +23,7 @@ sur la période de **février 2010 à octobre 2012**.
 ## 🗂️ Structure du Projet
 
 ```
-walmart-sales-forecast/
+Walmart-Project/
 │
 ├── data/                         # Données brutes (non versionnées)
 │   ├── train.csv                 # Historique des ventes
