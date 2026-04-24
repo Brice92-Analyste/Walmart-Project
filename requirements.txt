@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+ipywidgets
+scikit-learn
+xgboost
+tensorflow
+shap 
+flask
+flask-cors
+streamlit
+pickle
+json
+os
